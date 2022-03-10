@@ -10,4 +10,4 @@ Practical 2 : Compare the Naïve Bayes Classifier and Logistic Regression
 
 Practical 3: Convolutional Networks (Used tensorflow on MNIST and CIFAR 10)
 
-All practicals were implemented with Pyhton and were graded with full points.
+All practicals were implemented with Python and were graded with full points.
