@@ -1,12 +1,10 @@
-# FDS21-M67
+
 21HS MINF4566 Foundations of Data Science (L+E)
 
-Please create a directory for each practical and upload your answer (the skeleton notebook) and the dataset files to the corresponding directory. 
+Practicals done during the Foundations of Data Science lecture given by the University of Zurich.
 
-Your tutor is Vladimir Donkov (vladimir.donkov@uzh.ch).
+Practical 1 : Implementation of Linear Regression (Ridge, Lasso)
+Practical 2 : Compare the Naïve Bayes Classifier and Logistic Regression
+Practical 3: Convolutional Networks (MNIST and CIFAR 10)
 
-
-We have downloaded your Practical 1 code. We will upload the feedback here once we finish the grading. 
-
-If you have not uploaded your code yet and you still want to upload it (late submission), you should upload your code here and inform your tutor. 
-
+All practicals were implemented with Pyhton and were graded with full points.
